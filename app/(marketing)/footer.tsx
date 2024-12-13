@@ -120,7 +120,7 @@ export default function Footer() {
       <div className=' flex h-[40px] flex-col  justify-between items-center self-stretch'>
         <div className='flex justify-center items-center gap-8 self-stretch'>
           <p className='text-[#F5F5FF] font-inter text-center text-[16px] font-normal leading-6'>
-            © 2023.Springwell. All rights reserved.
+            © 2023.Cible Limited. All rights reserved.
           </p>
         </div>
       </div>

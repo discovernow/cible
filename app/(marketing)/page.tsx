@@ -1,6 +1,6 @@
 import { Header } from './header';
 import Hero from './hero';
-import Partners from './partners';
+// import Partners from './partners';
 import Products from './products';
 
 import Footer from './footer';
@@ -12,7 +12,7 @@ export default function Home() {
     <main className='min-h-screen'>
       <Header />
       <Hero />
-      <Partners />
+      {/* <Partners /> */}
       <Products />
       <Services />
       <Clients />

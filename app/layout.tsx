@@ -24,8 +24,8 @@ const nunito_sans = Nunito_Sans({
 });
 
 export const metadata: Metadata = {
-  title: 'Springwell Technologies | Digital Solutions',
-  description: 'Digital solutions company',
+  title: 'Cible Limited | Sustainable Solutions',
+  description: 'Sustainable solutions company',
 };
 
 export default function RootLayout({

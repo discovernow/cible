@@ -44,7 +44,7 @@ export function Header() {
         href='/#'
         className='flex items-center gap-[5.217px] xl:gap-[6.531px]'
       >
-        <Image src={Logo} width={191} height={40.1} alt='Springwell logo' />
+        <Image src={Logo} width={191} height={40.1} alt='Cible logo' />
       </Link>
 
       <div className={getMenuClasses()}>
